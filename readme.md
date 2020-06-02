@@ -17,3 +17,6 @@
  - **Doubly Linked Lists in Python**
 		 - [Study Material](https://link.medium.com/xaC3b1blX6)
 		 - [Task](https://link.medium.com/Agb3iJQEX6)
+ - **Arrays Concept in Data Structure**
+		 - [Study Material](https://link.medium.com/BceBVYr0Y6)
+		 - [Task](https://link.medium.com/nxASf0CjZ6)
