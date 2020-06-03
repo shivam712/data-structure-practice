@@ -22,6 +22,6 @@
 		 - [Task](https://link.medium.com/nxASf0CjZ6)
  - **Binary Trees in Python**
 		 - [Study Material](https://link.medium.com/dSqSN3hG06)
-		 - [Task](https://link.medium.com/nxASf0CjZ6)
+		 - [Task](https://link.medium.com/UYXDKBaZ06)
 
 		 
