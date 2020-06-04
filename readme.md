@@ -23,5 +23,8 @@
  - **Binary Trees in Python**
 		 - [Study Material](https://link.medium.com/dSqSN3hG06)
 		 - [Task](https://link.medium.com/UYXDKBaZ06)
+ - **Binary Search Tree in Python**
+		 - [Study Material](https://link.medium.com/kN6wxK7j26)
+		 - [Task](https://link.medium.com/GJpF6QBG26)
 
 		 
