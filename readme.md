@@ -30,6 +30,5 @@
 		 - [Study Material](https://link.medium.com/3GozJtHS36)
 		 - [Task](https://link.medium.com/B441urYi46)
 ## Time Complexity and Computation
-	 - [Complexity Analysis](https://link.medium.com/ssreIh1d16)
-	 - [Computational Complexity](https://link.medium.com/RLplrXiS26)
-		 
+		 - [Complexity Analysis](https://link.medium.com/ssreIh1d16)
+		 - [Computational Complexity](https://link.medium.com/RLplrXiS26)
