@@ -26,5 +26,10 @@
  - **Binary Search Tree in Python**
 		 - [Study Material](https://link.medium.com/kN6wxK7j26)
 		 - [Task](https://link.medium.com/GJpF6QBG26)
-
+- **Binary Search in Python**
+		 - [Study Material](https://link.medium.com/3GozJtHS36)
+		 - [Task](https://link.medium.com/B441urYi46)
+# Time Complexity and Computation
+		-[Complexity Analysis](https://link.medium.com/ssreIh1d16)
+		-[Computational Complexity](https://link.medium.com/RLplrXiS26)
 		 
