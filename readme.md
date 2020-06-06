@@ -29,6 +29,13 @@
 - **Binary Search in Python**
 		 - [Study Material](https://link.medium.com/3GozJtHS36)
 		 - [Task](https://link.medium.com/B441urYi46)
+- **Recursions in Python**
+		 - [Study Material](https://link.medium.com/nsCVpcWC56)
+		 - [Task](https://link.medium.com/b4uTRYd056)
+- **String Processing in Python**
+		 - [Study Material](https://link.medium.com/aejHji6C56)
+		 - [Task](https://link.medium.com/acTLE6m056)
+
 ## Time Complexity and Computation
 		 - [Complexity Analysis](https://link.medium.com/ssreIh1d16)
 		 - [Computational Complexity](https://link.medium.com/RLplrXiS26)
